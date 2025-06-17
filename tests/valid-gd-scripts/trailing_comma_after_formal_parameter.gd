@@ -1,2 +1,0 @@
-func foo(a,):
-	pass
