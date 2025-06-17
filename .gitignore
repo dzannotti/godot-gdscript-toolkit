@@ -4,4 +4,3 @@ dist/
 ./gdlint*
 ./gdformat*
 build
-debug.go
